@@ -2,9 +2,6 @@ package baekjoon;
 
 import java.util.*;
 
-/*
- * ¿Ø±‚≥Û πË√ﬂ
- */
 public class baekjoon1012 {
 
 	static int[][] data;
