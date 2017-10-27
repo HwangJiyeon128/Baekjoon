@@ -1,9 +1,5 @@
 package baekjoon;
 
-/*
- * 체스판 다시 칠하기
- */
-
 import java.util.*;
 
 public class baekjoon1018 {
