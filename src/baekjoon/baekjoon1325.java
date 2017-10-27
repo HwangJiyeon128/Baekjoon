@@ -1,9 +1,5 @@
 package baekjoon;
 
-/*
- * 효율적인 해킹
- */
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
