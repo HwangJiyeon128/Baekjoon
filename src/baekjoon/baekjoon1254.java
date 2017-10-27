@@ -1,9 +1,5 @@
 package baekjoon;
 
-/*
- * 팰린드롬 만들기
- */
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
