@@ -2,9 +2,6 @@ package baekjoon;
 
 import java.util.*;
 
-/*
- * ºØ¾î»§ ÆÇ¸ÅÇÏ±â
- */
 public class baekjoon11052 {
 
 	public static void main(String[] args) {
