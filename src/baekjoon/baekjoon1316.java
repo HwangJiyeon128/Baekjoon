@@ -1,8 +1,5 @@
 package baekjoon;
 
-/*
- * 그룹 단어 체커
- */
 import java.util.*;
 
 public class baekjoon1316 {
