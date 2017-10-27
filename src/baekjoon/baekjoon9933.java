@@ -1,9 +1,5 @@
 package baekjoon;
 
-/*
- * 민균이의 비밀번호
- */
-
 import java.util.*;
 
 public class baekjoon9933 {
